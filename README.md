@@ -7,5 +7,4 @@ Afficher le résultat d'une évaluation scolaire, à l'aide de compteurs sous fo
 
 
 
-### Support or Contact
 
