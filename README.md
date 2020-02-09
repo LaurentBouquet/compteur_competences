@@ -4,6 +4,8 @@ Afficher le résultat d'une évaluation scolaire, à l'aide de compteurs sous fo
 
 > sur une idée de David THOMAS
 
+[Démonstration](https://laurentbouquet.github.io/compteur_competences/)
+
 
 
 
